@@ -1,0 +1,2 @@
+/data/wordlists/* /opt/server/templates/secret.html.crypt
+policy check failed for:  student /data/wordlists/race /data/wordlists/*
